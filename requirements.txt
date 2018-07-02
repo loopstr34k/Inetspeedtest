@@ -1,0 +1,5 @@
+pyspeedtest
+urllib
+urllib2
+termcolor
+time
